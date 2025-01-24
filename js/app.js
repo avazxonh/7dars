@@ -16,6 +16,7 @@ const content = [
   "Jah Khalib - Медина",
   "Konsta-Qahramonlar",
   "Sherali Jo'rayev - Inson o'zing",
+  "Hala-Madrid",
 ];
 
 function changeMusic(index) {
